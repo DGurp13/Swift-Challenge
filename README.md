@@ -10,7 +10,7 @@ A functional social media app that shows list of posts on the home screen where 
  - Minimum deployment target - iOS 12.1
  - Project created in Xcode Version 13.4.1 
  
-## To build and run the solution -
+## To build and run the solution
 1. Unzip 'LeagueMobileChallengePairing.zip'
 2. Double click 'LeagueMobileChallenge.xcworkspace' : This will launch Xcode and the solution opens up in Xcode.
 3. Choose 'League Mobile Challenge' from the scheme menu in the toolbar in Xcode.
